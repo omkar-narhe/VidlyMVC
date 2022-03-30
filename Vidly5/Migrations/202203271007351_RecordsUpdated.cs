@@ -1,0 +1,16 @@
+﻿namespace Vidly5.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class RecordsUpdated : DbMigration
+    {
+        public override void Up()
+        {
+        }
+        
+        public override void Down()
+        {
+        }
+    }
+}
